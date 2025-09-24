@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**ByteTribe-dev/ByteTribe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 🔭 I'm currently working on MyFitnessCoach app, a React Native mobile application for fitness tracking and coaching.<br><br>👯 I'm looking to collaborate on:  Open-source projects related to React Native, web development, or fitness technology.<br><br>🤝 I'm looking for help with: Exploring new frameworks or libraries within the React ecosystem.<br><br>🌱 I'm currently learning: Advanced React Native techniques and performance optimization.<br><br>💬 Ask me about: My experience with React Native, web development, or fitness app development.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arslankhan7006) 
@@ -23,8 +13,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Arslankhan9000&icon=4&color=9)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
