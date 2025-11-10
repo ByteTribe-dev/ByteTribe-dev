@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm **Umair Khan**, a passionate ** Full Stack React Native Developer** dedicated to building high-quality, performance-driven mobile and web applications.
+👋 Hey there! I'm **Umair Khan**, a passionate **Full Stack React Native Developer** dedicated to building high-quality, performance-driven mobile and web applications.
 
 🔭 Currently working on **MyFitnessCoach**, a React Native fitness tracking and coaching app that helps users stay consistent and motivated.  
 🤝 Looking to collaborate on **open-source projects** related to React Native, web development, or fitness technology.  
