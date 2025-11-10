@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on MyFitnessCoach app, a React Native mobile application for fitness tracking and coaching.<br><br>👯 I'm looking to collaborate on:  Open-source projects related to React Native, web development, or fitness technology.<br><br>🤝 I'm looking for help with: Exploring new frameworks or libraries within the React ecosystem.<br><br>🌱 I'm currently learning: Advanced React Native techniques and performance optimization.<br><br>💬 Ask me about: My experience with React Native, web development, or fitness app development.
+👋 Hey there! I'm **Umair Khan**, a passionate ** Full Stack React Native Developer** dedicated to building high-quality, performance-driven mobile and web applications.
+
+🔭 Currently working on **MyFitnessCoach**, a React Native fitness tracking and coaching app that helps users stay consistent and motivated.  
+🤝 Looking to collaborate on **open-source projects** related to React Native, web development, or fitness technology.  
+🌱 Learning **advanced React Native techniques**, performance optimization, and exploring **modern frameworks** in the React ecosystem.  
+💬 Ask me about **React Native, Web Development, or Fitness App Development and social Apps**.  
+⚡ Fun fact: Great apps are like great workouts — consistency and creativity make all the difference!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arslankhan7006) 
 # 💻 Tech Stack:
